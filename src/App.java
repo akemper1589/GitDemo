@@ -5,4 +5,9 @@ public class App {
         int x = 0;
         double y = 15;
     }
+
+    public static void PrintMe()
+    {
+        System.out.print("Me");
+    }
 }
